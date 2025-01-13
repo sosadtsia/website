@@ -1,4 +1,4 @@
-# website# website
+# website
 
 ## Project Description
 This project is a personal website that will be hosted using GitHub Pages. It includes various sections such as About, Projects, Blog, and Contact.
